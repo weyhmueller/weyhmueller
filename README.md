@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi I'm Oliver 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliverweyhmueller/)](https://www.linkedin.com/in/oliverweyhmueller/)
+[![Website Badge](https://img.shields.io/badge/-weyhmueller.de-336699?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.weyhmueller.de)](https://www.weyhmueller.de)
+[![Twitter Badge](https://img.shields.io/badge/-@weyhmueller-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/weyhmueller)](https://twitter.com/weyhmueller)
+[![Instagram Badge](https://img.shields.io/badge/-@oliverweyhmueller-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/oliverweyhmueller/)](https://instagram.com/oliverweyhmueller)
+[![Gmail Badge](https://img.shields.io/badge/-oliver@weyhmueller.de-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:oliver@weyhmueller.de)](mailto:oliver@weyhmueller.de)
+
 
 <!--
 **weyhmueller/weyhmueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
